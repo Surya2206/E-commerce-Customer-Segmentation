@@ -1,11 +1,14 @@
-Project : E-commerce Customer Segmentation
+# E-commerce Customer Segmentation
 
-Problem Statement : Given the e-commerce data, use k-means clustering algorithm to cluster customers with similar interest.
+## Problem Statement : 
 
-Abstract:
+Given the e-commerce data, use k-means clustering algorithm to cluster customers with similar interest.
+
+## Abstract:
+
 A key challenge for e-commerce businesses is to analyze the trend in the market to increase their sales. The trend can be easily observed if the companies can group the customers; based on their activity on the e-commerce site. This grouping can be done by applying different criteria like previous orders, mostly searched brands.
 
-Approach:
+## Approach:
 
 * Exploring missing value,skewness and outliers in the dataset.
 
